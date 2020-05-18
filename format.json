@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/georgevere/upset_plot_data/blob/master/for_upset.csv",
+	"file": "https://raw.githubusercontent.com/georgevere/upset_plot_data/master/for_upset.csv",
 	"name": "SAINT Scores",
 	"header": 0,
 	"separator": ";",
